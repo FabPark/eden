@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eden/static/css/main.e6c13ad2.css",
+    "main.js": "/eden/static/js/main.a5d30013.js",
+    "static/js/787.7093765b.chunk.js": "/eden/static/js/787.7093765b.chunk.js",
+    "index.html": "/eden/index.html",
+    "main.e6c13ad2.css.map": "/eden/static/css/main.e6c13ad2.css.map",
+    "main.a5d30013.js.map": "/eden/static/js/main.a5d30013.js.map",
+    "787.7093765b.chunk.js.map": "/eden/static/js/787.7093765b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a5d30013.js"
+  ]
+}
